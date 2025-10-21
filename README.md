@@ -1,6 +1,6 @@
 # 🌟 Awesome ChatGPT Prompts
 
-> 🧠 A curated collection of effective ChatGPT prompts for coding, creativity, learning, and productivity.
+> A curated collection of effective ChatGPT prompts for coding, creativity, learning, and productivity.
 >
 > 📘 مجموعه‌ای از پرامپت‌های کاربردی و تست‌شده برای استفاده در ChatGPT — از کدنویسی تا تولید محتوا و آموزش.
 
